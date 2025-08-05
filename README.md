@@ -2,6 +2,7 @@
 R code for the figures made. 
 This is code to be used in R. 
 Still working on how to actually use github, will update this but for now just copy and paste the following code into R if you want to actually use it. 
+# READ/COPY THIS IN CODE MODE! 
 
 
 
